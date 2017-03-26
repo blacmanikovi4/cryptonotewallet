@@ -1,4 +1,4 @@
 
-set(CN_PROJECT_NAME "MoneroMonero")
-set(CN_CURRENCY_DISPLAY_NAME "")
+set(CN_PROJECT_NAME "Monero")
+set(CN_CURRENCY_DISPLAY_NAME "Monero")
 set(CN_CURRENCY_TICKER "xmr")
